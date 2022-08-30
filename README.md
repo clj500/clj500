@@ -1,4 +1,4 @@
-# Hi, I'm Cassie! Welcome to my Github ♡
+# Hi, I'm Cassie! Welcome to my Github ♡ <img src="https://user-images.githubusercontent.com/103222834/187360151-ccc0ca77-772f-47bf-b285-e563e5cf14a5.gif" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/103222834/187356718-423ddad0-dd30-470a-b7cf-0bcf17f4ebe8.gif"/>
 
 <!--
@@ -34,4 +34,4 @@
 
 ## Github Statistics
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=clj500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clj500&layout=compact)
+
