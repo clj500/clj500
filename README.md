@@ -13,5 +13,5 @@
 
 - 📫 How to reach me: cjavorsk500@gmail.com 
 
-- ⚡ Fun fact: I love foreign languages and have taken several semesters of Spanish, French, and Japanese, along with self-studying Korean ♡
+- ⚡ Fun fact: I love foreign languages and have taken several years of French and Japanese, along with self-studying Korean ♡
 
