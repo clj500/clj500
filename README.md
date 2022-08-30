@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/103222834/187349907-3a29371d-4b69-4d40-93b3-c96b1174b8b2.png)
+<img src="https://user-images.githubusercontent.com/103222834/187355642-290ad204-6c51-47d7-98d3-ab24bb54ac73.png"/>
 
 <!--
 **clj500/clj500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 
 
 
-- 📫 You can reach me at cjavorsk500@gmail.com !
+- 📫 You can reach me at cjavorsk500@gmail.com (serious inquiries only)
 
 
 
