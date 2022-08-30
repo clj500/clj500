@@ -1,3 +1,4 @@
+# Hi, I'm Cassie! Welcome to my Github ♡
 <img src="https://user-images.githubusercontent.com/103222834/187356718-423ddad0-dd30-470a-b7cf-0bcf17f4ebe8.gif"/>
 
 <!--
