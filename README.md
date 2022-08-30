@@ -15,7 +15,7 @@
 
 
 
-- 📫 You can reach me at cjavorsk500@gmail.com (serious inquiries only)
+- You can reach me at cjavorsk500@gmail.com (serious inquiries only) 📫
 
 
 
