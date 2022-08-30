@@ -37,4 +37,4 @@
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=clj500)
 <img src="https://user-images.githubusercontent.com/103222834/187360151-ccc0ca77-772f-47bf-b285-e563e5cf14a5.gif" width="100" height="100"/>
 
-**Please reach out to me if you have an inquiries!**
+**Please reach out to me if you have any inquiries!**
