@@ -1,4 +1,4 @@
-# Hi, I'm Cassie! Welcome to my Github ♡ <img src="https://user-images.githubusercontent.com/103222834/187361965-5989eeda-b0db-4ae8-a8ff-c12ed24e5490.png" width="40" height="40"/>
+# Hi, I'm Cassie! Welcome to my Github ♡ <img src="https://user-images.githubusercontent.com/103222834/187362445-d351e0eb-341f-45c0-92bb-4f979d073151.gif" width="70" height="40"/>
 
 <img src="https://user-images.githubusercontent.com/103222834/187356718-423ddad0-dd30-470a-b7cf-0bcf17f4ebe8.gif"/>
 
