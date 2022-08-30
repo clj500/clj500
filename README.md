@@ -1,7 +1,9 @@
-<img src="https://user-images.githubusercontent.com/103222834/187355642-290ad204-6c51-47d7-98d3-ab24bb54ac73.png"/>
+<img src="https://user-images.githubusercontent.com/103222834/187356718-423ddad0-dd30-470a-b7cf-0bcf17f4ebe8.gif"/>
 
 <!--
 **clj500/clj500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://user-images.githubusercontent.com/103222834/187355642-290ad204-6c51-47d7-98d3-ab24bb54ac73.png"/>
 -->
 ##
 
