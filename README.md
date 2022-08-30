@@ -5,9 +5,9 @@
 -->
 ##
 
-- 🔭 I’m currently working on getting my Bachelor's degree in Software Engineering
-- 🌱 I’m currently learning C++, Systems C, and how to work with UNIX-like operating systems
-- 🤔 I’m looking for help with developing my programming skills further and learning how to implement more efficent systems
+- I’m currently working on getting my Bachelor's degree in Software Engineering ♡
+- I’m currently learning C++, Systems C, and how to work with UNIX-like operating systems 🌱
+- I’m looking for help with developing my programming skills further and learning how to implement more efficent systems
 
 - 💬 Ask me about anything :)
 
