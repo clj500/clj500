@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/103222834/187322471-312d091e-31ef-4aba-8bda-cb63f262f750.PNG)
+![banner](https://user-images.githubusercontent.com/103222834/187322932-9ea08d02-3aab-4a6f-af10-2110d54bf782.PNG)
 
 <!--
 **clj500/clj500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
