@@ -1,6 +1,5 @@
 # Hi, I'm Cassie! Welcome to my Github ♡ <img src="https://user-images.githubusercontent.com/103222834/187362445-d351e0eb-341f-45c0-92bb-4f979d073151.gif" width="70" height="40"/>
 
-<img src="https://user-images.githubusercontent.com/103222834/187356718-423ddad0-dd30-470a-b7cf-0bcf17f4ebe8.gif"/>
 
 <!--
 **clj500/clj500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
